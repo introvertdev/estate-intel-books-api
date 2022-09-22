@@ -32,18 +32,20 @@ You can manually create a `.env` file in the root directory and copy the content
 
 ## Create database
 Create your database and fill in the correct details in the `.env file`
-Open `.env file` that you just created and locate the `DB_CONNECTION` section of the code
+Open `.env file` that you just created and locate the `DB_CONNECTION` section of the code and update the CONNECTION DETAILS as neccessary
     
 run `php artisan migrate` to migrate your database.
+
+run `php artisan serve` to start the application.
 
 Run tests by runnning `php artisan test`
 
 #### Endpoints
 ```
-BASE URL = http://localhost:8080/api
+BASE URL = http://localhost:8000/api
 OR
 
-BASE URL = http://127.0.0.1:8080/api
+BASE URL = http://127.0.0.1:8000/api
 ```
 1. query the Ice And Fire API for books
 
