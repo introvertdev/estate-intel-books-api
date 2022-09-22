@@ -6,7 +6,7 @@ This is a short coding assessment which implements a REST API that calls an exte
 
 ## Installation
 
-- Ensure you have php installed on your machine or you are using Xampp Appache server which comes with PHP by default
+- Ensure you have php installed on your machine or you are using XAMPP Apache server which comes with PHP by default
 - Ensure you have composer installed on your machine as well (composer in a php dependency manager just like npm in Node )
 
 Clone the repository `git clone https://github.com/introvertdev/estate-intel-books-api.git`
