@@ -2,7 +2,7 @@
 
 
 
-This is a short coding assessment which implements a REST API that calls an external API service to get information about books as well as CREATE, READ, UPDATE and DELETE books locally.
+This is a short coding assessment which implements a REST API that calls an external API service to get information about books as well as CREATE, READ, UPDATE and DELETE books locally applying more often implementing the SRP - S of the SOLID design pronciples.
 
 ## Installation
 
